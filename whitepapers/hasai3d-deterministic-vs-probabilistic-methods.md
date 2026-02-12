@@ -106,7 +106,7 @@ This approach preserves the strengths of both methods:
 - Flexibility and adaptability from AI
 - Precision, reproducibility, and correctness from deterministic systems
 
-![Probabilistic vs HASAI Hybrid Model](assets/diagrams/probabilistic-vs-hasai-hybrid-pipeline.png)
+![Probabilistic vs HASAI Hybrid Model](/assets/diagrams/probabilistic-vs-hasai-hybrid-pipeline.png)
 
 *Figure 1: Comparison between a probabilistic 3D generation pipeline and the HASAI hybrid deterministic pipeline.*
 
